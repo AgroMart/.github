@@ -22,6 +22,8 @@ O ecossistema do Agromart é dividido em múltiplos repositórios e serviços. A
 *   🔀 **[api-dicionario](https://github.com/AgroMart/api-dicionario)**: Repositório público arquivado (*archive*), que continha a API de roteamento criada para permitir a descentralização. O gerenciamento de URLs e o roteamento para os ambientes individualizados de cada CSA foram migrados para um modelo Serverless / FaaS (Function as a Service).
 *   🌐 **[.github](https://github.com/AgroMart/.github)**: Repositório de perfil com os padrões de saúde da comunidade, informações de organização e este arquivo de apresentação `README.md`.
 
+* Outros: [AGROMART-FAAS](https://github.com/AGROMART-FAAS)
+
 ---
 
 ## 🎓 Evolução do Projeto: Resumo dos TCCs
